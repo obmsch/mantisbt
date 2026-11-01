@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@redocly/cli": "^2.49.0",
-    "openapi-to-postmanv2": "^6.3.3",
+    "openapi-to-postmanv2": "^6.4.2",
     "yaml": "^2.9.0"
   }
 }
